@@ -1,0 +1,220 @@
+{
+ "also": [
+  "Rikers Island jail to close by 2032",
+  "KL Rahul's century completes the SENA set",
+  "Bangladesh hit by fresh arson attacks",
+  "Iraqi forces enter pro-Iran militia base",
+  "EU leaders demand a role in Ukraine talks",
+  "Russia hits Kyiv crossings; 8 killed",
+  "UNICEF: child deaths in Ukraine pass 2025",
+  "EU agrees EUR 1bn for Ukraine drones",
+  "Australia, Canada, NZ condemn Russia war",
+  "US approved 900,000 AI chips for China",
+  "Trump threatens ban on AI centres abroad",
+  "California subpoenas Nvidia over chips",
+  "King Charles to pay UK 'Mansion Tax'",
+  "Europe protests: inflation, arms spending",
+  "Tech stocks slide as Anthropic shares fall",
+  "US declassifies more Middle East UFO film",
+  "Texas prisoner in pain in lethal injection",
+  "Migrant caravan of 300 enters Mexico",
+  "Nearly 600 women killed in South Africa",
+  "ANC fights to hold South Africa's cities",
+  "Congo Ebola crisis hits children hard",
+  "Nepal PM heads to Delhi for first visit",
+  "Congress sweeps Rajasthan local polls",
+  "French police jailed for Zecler beating",
+  "Depardieu, Houellebecq face rape probe",
+  "Estonia to shut Russia border crossings",
+  "Talks on 'killer robots' race the clock",
+  "Taiwan flags China-linked accounts to Meta",
+  "Pakistan win Blind T20 Asia Cup on rain",
+  "Gill out; Pant to lead India in Guwahati",
+  "WPL auction: 277 players, 73 spots",
+  "Saudi cancels cycling, golf events"
+ ],
+ "date": "SATURDAY 21 NOVEMBER 2026",
+ "date_check": [
+  "Shenzhen summit 19-20 Nov",
+  "Riemann claim 20 Nov",
+  "Gupta sentence 20 Nov",
+  "Hormuz tankers 16 Nov",
+  "Iran delay 20 Nov"
+ ],
+ "day_label": "SATURDAY",
+ "featured": [
+  {
+   "color": "blue",
+   "icon": "target",
+   "lat": 55.7,
+   "lon": 12.6,
+   "n": 1,
+   "pin_dx": 0,
+   "pin_dy": -12,
+   "summary": "Denmark says Russia plotted to kill a rapper; gunmen stopped.",
+   "tag": "EUROPE",
+   "title": "DENMARK PLOT FOILED"
+  },
+  {
+   "color": "blue",
+   "icon": "missile",
+   "lat": 50.0,
+   "lon": 22.5,
+   "n": 2,
+   "pin_dx": 6,
+   "pin_dy": 10,
+   "summary": "Two Russian missiles and a drone crash in Poland amid a huge attack.",
+   "tag": "EUROPE",
+   "title": "MISSILES LAND IN POLAND"
+  },
+  {
+   "color": "blue",
+   "icon": "deal",
+   "lat": 51.5,
+   "lon": -0.1,
+   "n": 3,
+   "pin_dx": -14,
+   "pin_dy": 8,
+   "summary": "100,000 youth visas each way; food checks end; UK rejoins Erasmus.",
+   "tag": "EUROPE",
+   "title": "UK-EU RESET DEAL"
+  },
+  {
+   "color": "green",
+   "icon": "quake",
+   "lat": -11.2,
+   "lon": -75.2,
+   "n": 4,
+   "pin_dx": 0,
+   "pin_dy": 0,
+   "summary": "A 6.8 quake shakes Peru's Andes, centred in Junin. Felt in Lima.",
+   "tag": "LATIN AMERICA",
+   "title": "PERU QUAKE 6.8"
+  },
+  {
+   "color": "gold",
+   "icon": "gavel",
+   "lat": 52.1,
+   "lon": 4.3,
+   "n": 5,
+   "pin_dx": 0,
+   "pin_dy": -10,
+   "summary": "ICJ: Myanmar committed genocide against the Rohingya. Landmark.",
+   "tag": "ASIA",
+   "title": "MYANMAR GENOCIDE RULING"
+  },
+  {
+   "color": "teal",
+   "icon": "leaf",
+   "lat": 36.9,
+   "lon": 30.7,
+   "n": 6,
+   "pin_dx": 0,
+   "pin_dy": 0,
+   "summary": "COP31 talks spill into overtime; draft deal has no fossil fuels.",
+   "tag": "CLIMATE",
+   "title": "COP31 IN OVERTIME"
+  },
+  {
+   "color": "teal",
+   "icon": "mic",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 7,
+   "pin_dx": -8,
+   "pin_dy": -10,
+   "summary": "Fresh off China, Trump defends calling Putin 'a friend'.",
+   "tag": "N. AMERICA",
+   "title": "TRUMP AFTER CHINA"
+  },
+  {
+   "color": "teal",
+   "icon": "capitol",
+   "lat": 38.9,
+   "lon": -77.0,
+   "n": 8,
+   "pin_dx": 10,
+   "pin_dy": 8,
+   "summary": "Iran war divides Congress; shutdown looms. Cost tops $48bn.",
+   "tag": "N. AMERICA",
+   "title": "IRAN WAR DIVIDES US"
+  },
+  {
+   "color": "red",
+   "icon": "shield",
+   "lat": 31.5,
+   "lon": 34.5,
+   "n": 9,
+   "pin_dx": 0,
+   "pin_dy": 10,
+   "summary": "Israel kills 3 Palestinians in a fresh Gaza push; raid ends.",
+   "tag": "MIDDLE EAST",
+   "title": "GAZA PUSH"
+  },
+  {
+   "color": "red",
+   "icon": "flame",
+   "lat": 15.0,
+   "lon": 45.0,
+   "n": 10,
+   "pin_dx": 0,
+   "pin_dy": 0,
+   "summary": "Houthis claim missile and drone strikes on Saudi targets.",
+   "tag": "MIDDLE EAST",
+   "title": "HOUTHIS HIT SAUDI"
+  },
+  {
+   "color": "gold",
+   "icon": "chart",
+   "lat": 28.6,
+   "lon": 77.2,
+   "n": 11,
+   "pin_dx": 0,
+   "pin_dy": 0,
+   "summary": "Record Rs 1.22 lakh crore flows into Indian shares in November.",
+   "tag": "ASIA",
+   "title": "INDIA RECORD INFLOW"
+  },
+  {
+   "color": "purple",
+   "icon": "bat",
+   "lat": -31.9,
+   "lon": 115.9,
+   "n": 12,
+   "pin_dx": 0,
+   "pin_dy": 0,
+   "summary": "Starc takes 7-58 as England fall for 172; Australia 123-9.",
+   "tag": "OCEANIA",
+   "title": "ASHES DRAMA IN PERTH"
+  }
+ ],
+ "regions": 7,
+ "sources": "Al Jazeera, BBC, The Hindu, Dawn, Dunya News, The Daily Star, Anadolu, The Independent, Korea Times, Times of India, CricToday",
+ "timeline": [
+  [
+   "00:35",
+   "Missiles hit Poland"
+  ],
+  [
+   "01:12",
+   "Denmark expels envoy"
+  ],
+  [
+   "02:09",
+   "COP31 into overtime"
+  ],
+  [
+   "04:39",
+   "Trump China briefing"
+  ],
+  [
+   "06:48",
+   "ICJ genocide ruling"
+  ],
+  [
+   "07:26",
+   "EU on Ukraine talks"
+  ]
+ ],
+ "total_stories": 44
+}
